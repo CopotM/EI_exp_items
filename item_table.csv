@@ -1,46 +1,46 @@
-Items,Cible,Filler,is_mixed,corr
-1,caissier·e/vendeur·se,raviolis,Y,
-2,infirmier·e,piqure,Y,
-3,cuisinier·e,huitre,Y,
-4,policier·e,buche,Y,Une boîte -> une boite
-5,étudiant·e,flute,Y,Une flûte -> une flute
-6,politicien.ne,confetti,Y,Une huître -> une huitre
-7,chanteur.euse,boite,Y,Une île -> une ile
-8,magicien.ne,phénix,Y,Une piqûre -> une piqure
-9,agriculteur·ice,chauvesouris,Y,Un ragoût -> un ragout
-10,Electricien.ne,graffiti,Y,Un traîneau -> un traineau
-11,serveur.euse,tirebouchon,Y,Une chaîne -> une chaine
-12,danseur.euse,hautparleur,Y,Une traîne -> une traine
-13,boxeur.euse,chaine,Y,Un croque-monsieur -> un croquemonsieur
-14,coureur.euse,portemonnaie,Y,Une chauve-souris -> une chauvesouris
-15,skieur.euse,traineau,Y,Un mille-patte -> un millepatte
-16,dessinateur.rice,ile,Y,Un porte-manteau -> un portemanteau
-17,acteur.rice,extraterrestre,Y,Un porte-clé -> un porteclé
-18,instituteur.rice,micro-ondes,Y,Un haut-parleur -> un hautparleur
-19,ouvrier.ère,sandwichs,Y,Un tire-bouchon -> Un tirbouchon
-20,boulanger.ère,croque-monsieur,Y,Un pot-pourri -> Un potpourri
-21,ingénieur.eure,millepatte,Y,Un faire-part -> un fairepart
-22,avocat.e,agendas,Y,Un micro-onde -> un microonde
-23,enseignant.e,portemanteau,Y,Des jazzmen -> des jazzmans
-24,comédien.ne,pizza,Y,Une pizzeria -> une pizzéria
-25,musicien.ne,sushi,Y,Des ravioli -> des raviolis
-26,hôtesse de l'air,valises,N,Des cameramen -> des cameramans
-27,patients,fauteuil roulant,N,Un media -> Un média
-28,prisonniers,alters,N,Des graffiti -> des graffitis
-29,docteur,café / cafetière,N,Un phoenix -> un phénix
-30,religieuse/nonnes,chat,N,Des sandwiches -> des sandwichs
-31,soldats,singes,N,Des barmen -> des barmans
-32,marins,chien,N,Des agenda -> des agendas
-33,chirurgiens,béquille,N,Des confetti -> des confettis
-34,nageuses,bouée,N,Un revolver -> un révolver
-35,joueuse de tennis,basketball / raquette tennis,N,porte-crayon -> des porte-crayons
-36,golfeur,balle de golf,N,
-37,joueur de hockey,palet,N,crème fraiche ?
-38,chevalier,bière/poulet,N,
-39,princesse,dragon,N,
-40,reine,marmite d'or,N,
-41,super-héros,monstre,N,
-42,empereur,raisin,N,
-43,adolescents,enceinte,N,
-44,diplomés,diplome,N,
-45,footballeur,ballon,N,
+Items,Cible,Filler,is_mixed,is_single,all_female,corr
+1,caissier·e/vendeur·se,raviolis,Y,N,N,
+2,infirmier·e,piqure,Y,N,N,
+3,cuisinier·e,huitre,Y,N,N,
+4,policier·e,buche,Y,N,N,Une boîte -> une boite
+5,étudiant·e,flute,Y,N,N,Une flûte -> une flute
+6,politicien.ne,confetti,Y,N,N,Une huître -> une huitre
+7,chanteur.euse,boite,Y,N,N,Une île -> une ile
+8,magicien.ne,phénix,Y,N,N,Une piqûre -> une piqure
+9,agriculteur·ice,chauvesouris,Y,N,N,Un ragoût -> un ragout
+10,Electricien.ne,graffiti,Y,N,N,Un traîneau -> un traineau
+11,serveur.euse,tirebouchon,Y,N,N,Une chaîne -> une chaine
+12,danseur.euse,hautparleur,Y,N,N,Une traîne -> une traine
+13,boxeur.euse,chaine,Y,N,N,Un croque-monsieur -> un croquemonsieur
+14,coureur.euse,portemonnaie,Y,N,N,Une chauve-souris -> une chauvesouris
+15,skieur.euse,traineau,Y,N,N,Un mille-patte -> un millepatte
+16,dessinateur.rice,ile,Y,N,N,Un porte-manteau -> un portemanteau
+17,acteur.rice,extraterrestre,Y,N,N,Un porte-clé -> un porteclé
+18,instituteur.rice,micro-ondes,Y,N,N,Un haut-parleur -> un hautparleur
+19,ouvrier.ère,sandwichs,Y,N,N,Un tire-bouchon -> Un tirbouchon
+20,boulanger.ère,croque-monsieur,Y,N,N,Un pot-pourri -> Un potpourri
+21,ingénieur.eure,millepatte,Y,N,N,Un faire-part -> un fairepart
+22,avocat.e,agendas,Y,N,N,Un micro-onde -> un microonde
+23,enseignant.e,portemanteau,Y,N,N,Des jazzmen -> des jazzmans
+24,comédien.ne,pizza,Y,N,N,Une pizzeria -> une pizzéria
+25,musicien.ne,sushi,Y,N,N,Des ravioli -> des raviolis
+26,hôtesse de l'air,valises,N,N,Y,Des cameramen -> des cameramans
+27,patients,fauteuil roulant,N,N,N,Un media -> Un média
+28,prisonniers,alters,N,N,N,Des graffiti -> des graffitis
+29,docteur,café / cafetière,N,N,Y,Un phoenix -> un phénix
+30,religieuse/nonnes,chat,N,N,Y,Des sandwiches -> des sandwichs
+31,soldats,singes,N,N,N,Des barmen -> des barmans
+32,marins,chien,N,N,N,Des agenda -> des agendas
+33,chirurgiens,béquille,N,N,N,Des confetti -> des confettis
+34,nageuses,bouée,N,N,Y,Un revolver -> un révolver
+35,joueuse de tennis,basketball / raquette tennis,N,N,Y,porte-crayon -> des porte-crayons
+36,golfeur,balle de golf,N,N,N,
+37,joueur de hockey,palet,N,N,N,crème fraiche ?
+38,chevalier,bière/poulet,N,N,N,
+39,princesse,dragon,N,N,Y,
+40,reine,marmite d'or,N,Y,Y,
+41,super-héros,monstre,N,Y,Y,
+42,empereur,raisin,N,Y,N,
+43,adolescents,enceinte,N,N,Y,
+44,diplomés,diplome,N,N,N,
+45,footballeur,ballon,N,N,N,
